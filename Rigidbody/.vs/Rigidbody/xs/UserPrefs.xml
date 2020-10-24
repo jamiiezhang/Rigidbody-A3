@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2567F9DD-675B-D720-6EAB-2702C01898AB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/JointsScript.cs">
+    <Files>
+      <File FileName="Assets/JointsScript.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6152919c-0610-4bd0-bfb4-64cb181c69c4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
